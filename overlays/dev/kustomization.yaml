@@ -5,4 +5,4 @@ commonLabels:
   env: dev
 images:
   - name: docker.io/ishwa0308/cicd-app
-    newTag: d0533805bd37fff8bd1333d6e06de29503f51d06
+    newTag: 2ca40e29cf9bb019e38e13dbff1c95c70ba1491f
