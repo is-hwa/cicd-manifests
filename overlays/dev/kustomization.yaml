@@ -4,5 +4,5 @@ namePrefix: dev-
 commonLabels:
   env: dev
 images:
-  - name: docker.io/is-hwa0308/cicd-app
+  - name: docker.io/ishwa0308/cicd-app
     newTag: latest

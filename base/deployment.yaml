@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: docker.io/is-hwa0308/cicd-app:latest
+        image: docker.io/ishwa0308/cicd-app:latest
         ports:
         - containerPort: 8000
         readinessProbe:
